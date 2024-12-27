@@ -18,4 +18,4 @@ The interface adapter will need to be built. Details can currently be found on [
 
 ## Building
 
-Windows: It's recommended to open the **denon\_dn/vs/dn-interface.sln** solution and build the solution in Visual Studio. Copy the dn-interface.dll and bass.dll to the output folder of **PlayerDemo**.
+Windows: It's recommended to open the **denon\_dn/vs/dn-interface.sln** solution and build the solution in Visual Studio. Copy **dn-interface.dll** and **bass.dll** to the output folder of **PlayerDemo**.
