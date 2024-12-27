@@ -12,7 +12,7 @@ The project has been upgraded to .NET8 and whilst the intention is cross-platfor
 
 The Un4seen managed libraries in **PlayerDemo** are used for playback. These can be found on NuGet.
 
-Windows: Download the Un4seen bass library from [https://www.un4seen.com/bass.html](https://www.un4seen.com/bass.html). The **bass.dll** should be copied to the same output folder as **dn-interface.dll**. Note that only Win32 x86 is currently supported.
+Windows: Download the Un4seen bass library from [https://www.un4seen.com/bass.html](https://www.un4seen.com/bass.html). The **bass.dll** file should be copied to the same output folder as **dn-interface.dll**. Note that only Win32 x86 is currently supported.
 
 The interface adapter will need to be built. Details can currently be found on [https://blog.petejefferson.co.uk/](https://blog.petejefferson.co.uk/).
 
